@@ -208,7 +208,7 @@ The key is only used server-side in `/api/generate-flashcards` – it's never se
 <!-- Replace with your actual video link -->
 📹 [Watch the demo walkthrough](https://youtu.be/cYei9G2ame0)
 
-See [`docs/demo_script.md`](docs/demo_script.md) for the recording script.
+
 
 ---
 

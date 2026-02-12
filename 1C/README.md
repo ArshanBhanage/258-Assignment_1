@@ -54,7 +54,7 @@ This repo contains two projects (from Assignment 1B):
 
 - [Architecture Overview](docs/architecture.md)
 - [Gemini Prompt Strategy](docs/prompt.md)
-- [Video Demo Script](docs/demo_script.md)
+
 - [📹 Video Walkthrough](https://youtu.be/UHNFCb3G4_U)
 
 ## Tech Stack
