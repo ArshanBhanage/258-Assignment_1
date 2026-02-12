@@ -1,4 +1,4 @@
-# 258 Assignment 1B
+# 258 Assignment 1
 
 This repository contains assignments for CMPE 258.
 
