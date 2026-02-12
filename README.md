@@ -4,10 +4,10 @@ This repository contains assignments for CMPE 258.
 
 ## Folder Structure
 
-- **[1A](/1A)**: (Pending Upload)
+- **[1A](/1A)**: Analysis notebook and outputs.
 - **[1B](/1B)**: **Flashcard Forge** — AI-powered flashcard generation app using Next.js, Firebase, and Gemini.
 - **[1C](/1C)**: **Receipt2Split** — Bill splitting mobile app using Flutter and Gemini.
-- **[1D](/1D)**: (Pending Upload)
+- **[1D](/1D)**: Analysis notebook and outputs.
 
 ## Setup
 
